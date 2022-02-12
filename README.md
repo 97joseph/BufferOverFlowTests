@@ -549,5 +549,3 @@ buffer-overflow vulnerability. The *return-tolibc
 you are interested, please see our Return-to-Libc Attack Lab for details.Task 5: Launching Attack on 64-bit Program
 
 (Level 3)Task 6: Launching Attack on 64-bit Program
-
-(Level 4)
